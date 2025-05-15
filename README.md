@@ -1,6 +1,6 @@
 # Shopping List Application CSS Enhancement
 
-[![Shopping List App Screenshot](/Home.jpg)
+[!Shopping List App Screenshot](/Home.jpg)
 
 [View Live Demo](https://tinyu01.github.io/fullstack_web_dev_lab_03/) | [View Source Code](https://github.com/Tinyu01/fullstack_web_dev_lab_03)
 
