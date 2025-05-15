@@ -1,5 +1,9 @@
 # Shopping List Application CSS Enhancement
 
+[![Shopping List App Screenshot](https://example.com/screenshots/shopping-app-preview.png)](https://example.com/shopping-app-demo)
+
+[View Live Demo](https://example.com/shopping-app-demo) | [View Source Code](https://github.com/username/shopping-list-app)
+
 ## Project Overview
 This project involved upgrading a small grocery store's online shopping list application by applying CSS styling to improve the user experience and visual appeal. The HTML structure was already in place, but customers were struggling with usability, particularly with the registration and login forms, while the product categories page lacked organization and visual coherence.
 
@@ -76,6 +80,19 @@ The project utilized three CSS implementation methods:
 - **Interactive Button Feedback**: Hover effects provide visual cues to users when interacting with buttons
 - **Consistent Visual Theme**: Coordinated colors across the site for a cohesive brand experience
 
+## Live Demo Screenshots
+
+Below are screenshots showing the before and after of our CSS enhancements:
+
+### Form Styling Improvement
+![Form Styling Before and After](https://example.com/screenshots/form-styling-comparison.png)
+
+### Table Enhancement
+![Table Styling Before and After](https://example.com/screenshots/table-styling-comparison.png)
+
+### Button Styling
+![Button Styling Before and After](https://example.com/screenshots/button-styling-comparison.png)
+
 ## Testing
 All changes were verified in a web browser to ensure proper application of styles and confirm that the visual improvements enhance user experience as intended.
 
@@ -86,6 +103,13 @@ Possible next steps for the project could include:
 - Additional accessibility enhancements
 - Animation effects for interactive elements
 
+## Links & Resources
+
+- [Live Demo](https://example.com/shopping-app-demo)
+- [Project Repository](https://github.com/username/shopping-list-app)
+- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 ---
 
-© AJSD Java Developer, 2025
+© MASINGITA Java Developer, 2025
